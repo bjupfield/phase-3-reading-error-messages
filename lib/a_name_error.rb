@@ -1,3 +1,3 @@
-"hello world"
+bin = "hello world"
 
-hello_world
+hello_world = "not hello"
